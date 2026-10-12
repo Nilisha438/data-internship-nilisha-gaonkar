@@ -1,4 +1,5 @@
 # data-internship-nilisha-gaonkar
+
 Data Analytics Internship - Days 1 to 14
 Data Analytics Internship Portfolio
 
@@ -22,3 +23,10 @@ Python, Pandas, NumPy, SQL, Matplotlib, Seaborn, Power BI, and GitHub.
 
 Author
 Nilisha Gaonkar
+
+
+
+
+
+Day 15 Practical: Created a Git branch and practiced Git workflow.
+
