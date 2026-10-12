@@ -1,4 +1,5 @@
 # data-internship-nilisha-gaonkar
+
 Data Analytics Internship - Days 1 to 14
 Data Analytics Internship Portfolio
 
@@ -26,3 +27,8 @@ Nilisha Gaonkar
 
 
 Learning Git Branch and Merge for Day 15 internship task.
+
+
+
+Day 15 Practical: Created a Git branch and practiced Git workflow.
+
