@@ -22,3 +22,6 @@ Python, Pandas, NumPy, SQL, Matplotlib, Seaborn, Power BI, and GitHub.
 
 Author
 Nilisha Gaonkar
+
+
+Learning Git Branch and Merge for Day 15 internship task.
