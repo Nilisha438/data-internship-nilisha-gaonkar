@@ -26,8 +26,8 @@ Nilisha Gaonkar
 
 
 
-Learning Git Branch and Merge for Day 15 internship task.
 
+Learning Git Branch and Merge for Day 15 internship task.
 
 
 Day 15 Practical: Created a Git branch and practiced Git workflow.
